@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Words Counter</string>
+    <string name="count_button">Count</string>
+    <string name="text_view_label">TextView</string>
+    <string name="edit_text_hint">Enter text here...</string>
+    <string-array name="options_array">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
