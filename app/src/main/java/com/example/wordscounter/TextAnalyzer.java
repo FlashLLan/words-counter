@@ -7,7 +7,7 @@ public class TextAnalyzer {
         if (input == null || input.isEmpty()) {
             return 0;
         }
-        String[] words = input.trim().split("\\s+");
+        String[] words = input.trim().split("[ ,.]+");
         return words.length;
     }
 
